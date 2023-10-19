@@ -2,4 +2,6 @@
 -expert js
 -tidur yang teratur sebelum jam10 
 -olahraga ringan setiap hari
--
+-kurangin main game
+-lebih banyak ngetik 
+-daily duolingo

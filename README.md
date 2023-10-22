@@ -5,3 +5,5 @@
 -kurangin main game
 -lebih banyak ngetik 
 -daily duolingo
+-jaga solat 5 waktu 
+-intospeksi diri
